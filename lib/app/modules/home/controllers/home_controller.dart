@@ -11,7 +11,7 @@ class HomeController extends GetxController {
   //TODO: Implement HomeController
 
   RxInt selectedIndex = 0.obs;
-  RxInt genreId = 0.obs;
+  RxInt genreId = 28.obs;
 
   Future<NowPlaying?> getNowPlaying() async {
     String BEARER =
