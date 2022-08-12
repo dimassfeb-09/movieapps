@@ -1,0 +1,50 @@
+[
+        {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Official Trailer 3",
+            "key": "HhIl_XJ-OGA",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer",
+            "official": true,
+            "published_at": "2022-06-06T15:00:15.000Z",
+            "id": "629e8340caa50837e3b31cfd"
+        },
+        {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Official Trailer 2",
+            "key": "6DxjJzmYsXo",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer",
+            "official": true,
+            "published_at": "2022-03-30T15:00:03.000Z",
+            "id": "624487897caa4700476aac08"
+        },
+        {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Official Trailer",
+            "key": "OCSnxXtjFL0",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer",
+            "official": true,
+            "published_at": "2020-02-05T16:00:04.000Z",
+            "id": "5e7675312fe2fa001214920f"
+        },
+        {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Get Ready",
+            "key": "3Zibb6lVCRw",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2020-02-03T00:58:08.000Z",
+            "id": "60da15b017c443002d3df034"
+        }
+    ]
